@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+body {
+    background: linear-gradient(#005f73,#94d2bd,#ee6f57);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: "EB Garamond", serif;;
+}
+.enter{
+    font-size: 20px;
+    font-weight: 500;
+}
+#result{
+    font-size: 25px;
+}
+
+.mybutton{
+    color:#ee6f57;
+    background-color: #005f73;
+    border: none;
+    transition: all .3s;
+}
+
+.mybutton:hover , .mybutton:active{
+    box-shadow: 0px 0px 10px #94d2bd;
+    background-color: #94d2bd;
+    color: #005f73;
+}
+
+#dob{
+    border-radius: 10px;
+    border: 2px solid #005f73;
+    transition: all .3s;
+}
+#dob:hover , #dob:active{
+    box-shadow: 0px 0px 10px #94d2bd;
+}
