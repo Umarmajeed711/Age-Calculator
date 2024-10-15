@@ -1,6 +1,6 @@
 
 
-let todayDate = new Date("May 2, 2005")
+// let todayDate = new Date("May 2, 2005")
 
 
 // let dayArr = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
@@ -35,5 +35,14 @@ let todayDate = new Date("May 2, 2005")
 
 
 
-userDate = todayDate.getFullYear()
-console.log(userDate);
+// userDate = todayDate.getFullYear()
+// console.log(userDate);
+
+
+// let mydate = new Date;
+// console.log(mydate);
+
+
+
+////// 
+
